@@ -14,6 +14,10 @@ yarn build
 yarn start
 ```
 
+## Links
+- [HaSeul on npm](https://www.npmjs.com/package/haseul)
+- [HaSeul on GitHub](https://github.com/botsto/haseul)
+
 ## Notes
 - [You may be interested in this music video](https://www.youtube.com/watch?v=ZNcBZM5SvbY)
 - This project is licenced under the MIT licence
