@@ -1,0 +1,4 @@
+configuration.yaml
+dist/
+node_modules/
+.cache/
