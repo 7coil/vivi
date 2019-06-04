@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "eris": "^0.9.0",
-    "haseul": "^1.0.1",
+    "haseul": "^1.0.2",
     "source-map-support": "^0.5.12"
   },
   "repository": {
