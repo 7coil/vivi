@@ -2580,10 +2580,10 @@ has@^1.0.0, has@^1.0.1, has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-haseul@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/haseul/-/haseul-1.0.2.tgz#e51f4fb5f0e15589645774769737063ef97dd508"
-  integrity sha512-bm5ZXhPpO/VsaMPAjKGP8k1uYxw5LThlj+tkezfzlLCXsleb2367oFOhe0g0mwGzePLJWf1sJNMgXNxGpalbzQ==
+haseul@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/haseul/-/haseul-1.0.4.tgz#37eddca0d1892bd0851d7c8ef989d716c70fed4c"
+  integrity sha512-cCI9qIC2MXpXkEUhLLtQWWLe8ZVnmFjl2nlDibnBk0hLM+vhekInois+4Y3XUgIIhD1FVZml8j9iFFnOZ36B6g==
 
 hash-base@^3.0.0:
   version "3.0.4"
